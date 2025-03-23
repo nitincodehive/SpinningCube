@@ -1,6 +1,6 @@
 export default {
     root: 'src',
-    base: '/spinningcube/',
+    base: '/SpinningCube/',
     build: {
       outDir: '../docs'
     }
